@@ -1,3 +1,4 @@
+![logo](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-720x426.png)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
