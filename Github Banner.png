@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://blogs.swarthmore.edu/its/xmlrpc.php">
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>github Archives - Swarthmore College ITS Blog</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://blogs.swarthmore.edu/its/tag/github/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="github Archives - Swarthmore College ITS Blog" />
+	<meta property="og:url" content="https://blogs.swarthmore.edu/its/tag/github/" />
+	<meta property="og:site_name" content="Swarthmore College ITS Blog" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@SwarthmoreITS" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://blogs.swarthmore.edu/its/#website","url":"https://blogs.swarthmore.edu/its/","name":"Swarthmore College ITS Blog","description":"","potentialAction":[{"@type":"SearchAction","target":"https://blogs.swarthmore.edu/its/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://blogs.swarthmore.edu/its/tag/github/#webpage","url":"https://blogs.swarthmore.edu/its/tag/github/","name":"github Archives - Swarthmore College ITS Blog","isPartOf":{"@id":"https://blogs.swarthmore.edu/its/#website"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://blogs.swarthmore.edu/its/tag/github/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Swarthmore College ITS Blog &raquo; Feed" href="https://blogs.swarthmore.edu/its/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Swarthmore College ITS Blog &raquo; Comments Feed" href="https://blogs.swarthmore.edu/its/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Swarthmore College ITS Blog &raquo; github Tag Feed" href="https://blogs.swarthmore.edu/its/tag/github/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.14.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-31798390-1"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.14.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-5K6E5CYQ71',
+															'ga-disable-UA-31798390-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+														parameters.send_to = monsterinsights_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-5K6E5CYQ71', {"forceSSL":"true"} );
+															__gtagTracker('config', 'UA-31798390-1', {"forceSSL":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.swarthmore.edu\/its\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.12"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://blogs.swarthmore.edu/its/wp-includes/css/dist/block-library/style.min.css?ver=5.5.12' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='social-widget-css'  href='https://blogs.swarthmore.edu/its/wp-content/plugins/social-media-widget/social_widget.css?ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='swatcalfeed-style-css'  href='https://blogs.swarthmore.edu/its/wp-content/plugins/swat-calendar-feed/css/swatcalfeed-style.css?ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://blogs.swarthmore.edu/its/wp-content/themes/gazette/style.css?ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://blogs.swarthmore.edu/its/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gazette-lora-css'  href='https://fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='gazette-lato-inconsolata-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='gazette-style-css'  href='https://blogs.swarthmore.edu/its/wp-content/themes/gazette-child/style.css?ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://blogs.swarthmore.edu/its/wp-content/plugins/jetpack/css/jetpack.css?ver=8.4.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.14.0' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/blogs.swarthmore.edu\/its","hash_tracking":"false","ua":"UA-31798390-1","v4_id":"G-5K6E5CYQ71"};/* ]]> */
+</script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://blogs.swarthmore.edu/its/wp-json/" /><link rel="alternate" type="application/json" href="https://blogs.swarthmore.edu/its/wp-json/wp/v2/tags/274" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blogs.swarthmore.edu/its/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blogs.swarthmore.edu/its/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.12" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css">
+			.site-title,
+		.site-description {
+			color: #b30838;
+		}
+		</style>
+				<link rel="stylesheet" type="text/css" id="wp-custom-css" href="https://blogs.swarthmore.edu/its/?custom-css=3334e3310e" />
+		</head>
+
+<body class="archive tag tag-github tag-274 group-blog has-site-logo">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-header-inner">
+			<div class="site-branding">
+				<a href="https://blogs.swarthmore.edu/its/" rel="home">
+					<img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2017/06/swarthmore_logo.png" alt="Swarthmore College ITS Blog" class="site-logo" role="presentation">					<h1 class="site-title">Swarthmore College ITS Blog</h1>
+					<h2 class="site-description"></h2>
+				</a>
+			</div><!-- .site-branding -->
+
+							<nav id="site-navigation" class="main-navigation" role="navigation">
+					<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span></button>
+					<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-4199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4199"><a href="http://dash.swarthmore.edu/">The Dash</a></li>
+<li id="menu-item-4200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4200"><a href="http://www.swarthmore.edu/its">ITS Homepage</a></li>
+<li id="menu-item-4201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4201"><a href="https://kb.swarthmore.edu:8443/#all-updates">ITS Knowledgebase</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+			
+			<div id="search-header" class="search-header">
+				<button class="search-toggle" aria-controls="search-form" aria-expanded="false"><span class="screen-reader-text">Search</span></button>
+				<form role="search" method="get" id="search-form" class="search-form" action="https://blogs.swarthmore.edu/its/" aria-expanded="false">
+  <label>
+	 <span class="screen-reader-text">Search for:</span>
+	 <input type="search" class="search-field" placeholder="Search …" value="" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+
+			</div><!-- #search-header -->
+		</div><!-- .site-header-inner -->
+	</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">Tag: <span>github</span></h1>			</header><!-- .page-header -->
+
+						
+				
+<article id="post-8259" class="post-8259 post type-post status-publish format-standard has-post-thumbnail hentry category-development category-github category-open-source tag-development tag-github">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://blogs.swarthmore.edu/its/category/development/" rel="category tag">Development</a>, <a href="https://blogs.swarthmore.edu/its/category/github/" rel="category tag">GitHub</a>, <a href="https://blogs.swarthmore.edu/its/category/open-source/" rel="category tag">Open-Source</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://blogs.swarthmore.edu/its/2022/12/02/whats-new-from-github-universe-2022/">
+				<img width="720" height="426" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-720x426.png" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="GitHub Universe Banner" loading="lazy" />							</a>
+		
+		<h1 class="entry-title"><a href="https://blogs.swarthmore.edu/its/2022/12/02/whats-new-from-github-universe-2022/" rel="bookmark">What&#8217;s New from GitHub Universe (2022)</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://blogs.swarthmore.edu/its/2022/12/02/whats-new-from-github-universe-2022/" rel="bookmark"><time class="entry-date published" datetime="2022-12-02T13:13:03-05:00">December 2, 2022</time><time class="updated" datetime="2022-12-02T13:13:04-05:00">December 2, 2022</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://blogs.swarthmore.edu/its/author/aweed1/">Anthony Weed</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Hello! 👋 I wanted to share some of my takeaways from GitHub&#8217;s annual conference, GitHub Universe for 2022. GitHub Codespaces 🚀 Codespaces are basically vscode containers running on GitHub. They allow you to develop directly on the GitHub site. You &hellip; <a href="https://blogs.swarthmore.edu/its/2022/12/02/whats-new-from-github-universe-2022/" class="more-link">Continue reading <span class="screen-reader-text">What&#8217;s New from GitHub Universe (2022)</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-5934" class="post-5934 post type-post status-publish format-standard has-post-thumbnail hentry category-academic-technology category-development tag-git tag-github tag-howto tag-tips-2">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://blogs.swarthmore.edu/its/category/academic-technology/" rel="category tag">Academic Technology</a>, <a href="https://blogs.swarthmore.edu/its/category/development/" rel="category tag">Development</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://blogs.swarthmore.edu/its/2019/06/17/utilizing-git-for-solo-development/">
+				<img width="720" height="426" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2019/06/branchallthethings-720x426.jpg" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="Branch all the things" loading="lazy" />							</a>
+		
+		<h1 class="entry-title"><a href="https://blogs.swarthmore.edu/its/2019/06/17/utilizing-git-for-solo-development/" rel="bookmark">Utilizing Git for Solo Development</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://blogs.swarthmore.edu/its/2019/06/17/utilizing-git-for-solo-development/" rel="bookmark"><time class="entry-date published" datetime="2019-06-17T12:00:26-04:00">June 17, 2019</time><time class="updated" datetime="2019-06-17T12:01:03-04:00">June 17, 2019</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://blogs.swarthmore.edu/its/author/aweed1/">Anthony Weed</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>Let&#8217;s Git Started Bad puns aside, Git is a very powerful tool. For those who don&#8217;t know, git is a version-control system used for tracking source code during software development. It&#8217;s an amazing tool for team development because it allows &hellip; <a href="https://blogs.swarthmore.edu/its/2019/06/17/utilizing-git-for-solo-development/" class="more-link">Continue reading <span class="screen-reader-text">Utilizing Git for Solo Development</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-5437" class="post-5437 post type-post status-publish format-standard has-post-thumbnail hentry category-academic-technology category-course_planning category-facultystaff category-digitaltools category-moodle tag-assignment tag-exam tag-github tag-ipad tag-jupyterhub tag-moodle tag-tablets tag-test">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://blogs.swarthmore.edu/its/category/academic-technology/" rel="category tag">Academic Technology</a>, <a href="https://blogs.swarthmore.edu/its/category/course_planning/" rel="category tag">Course Planning</a>, <a href="https://blogs.swarthmore.edu/its/category/facultystaff/" rel="category tag">Faculty/Staff</a>, <a href="https://blogs.swarthmore.edu/its/category/digitaltools/" rel="category tag">Learning Technology</a>, <a href="https://blogs.swarthmore.edu/its/category/moodle/" rel="category tag">Moodle</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://blogs.swarthmore.edu/its/2018/11/08/how-to-grade-online-assignments-and-exams/">
+				<img width="720" height="426" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2018/11/assignment-720x426.jpg" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="Assignment sign" loading="lazy" />							</a>
+		
+		<h1 class="entry-title"><a href="https://blogs.swarthmore.edu/its/2018/11/08/how-to-grade-online-assignments-and-exams/" rel="bookmark">How to Grade Online Assignments and Exams</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://blogs.swarthmore.edu/its/2018/11/08/how-to-grade-online-assignments-and-exams/" rel="bookmark"><time class="entry-date published updated" datetime="2018-11-08T12:25:38-05:00">November 8, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://blogs.swarthmore.edu/its/author/aruethe2/">Andrew Ruether</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>An increasing number of Swarthmore faculty are using online grading for assignments and exams.  Since students create most of their work digitally, it makes sense to submit an assignment electronically and avoid the need to print a hard copy.  ITS &hellip; <a href="https://blogs.swarthmore.edu/its/2018/11/08/how-to-grade-online-assignments-and-exams/" class="more-link">Continue reading <span class="screen-reader-text">How to Grade Online Assignments and Exams</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-5250" class="post-5250 post type-post status-publish format-standard has-post-thumbnail hentry category-academic-technology category-students tag-github">
+	<header class="entry-header">
+					<div class="entry-meta">
+				<span class="cat-links"><a href="https://blogs.swarthmore.edu/its/category/academic-technology/" rel="category tag">Academic Technology</a>, <a href="https://blogs.swarthmore.edu/its/category/students/" rel="category tag">Students</a></span>			</div><!-- .entry-meta -->
+		
+					<a class="post-thumbnail" href="https://blogs.swarthmore.edu/its/2018/09/05/github-opportunities-for-students/">
+				<img width="720" height="426" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2018/09/Octocat-720x426.png" class="attachment-gazette-post-thumbnail size-gazette-post-thumbnail wp-post-image" alt="Octocat GitHub logo" loading="lazy" />							</a>
+		
+		<h1 class="entry-title"><a href="https://blogs.swarthmore.edu/its/2018/09/05/github-opportunities-for-students/" rel="bookmark">GitHub Opportunities for Students</a></h1>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="https://blogs.swarthmore.edu/its/2018/09/05/github-opportunities-for-students/" rel="bookmark"><time class="entry-date published updated" datetime="2018-09-05T17:11:06-04:00">September 5, 2018</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://blogs.swarthmore.edu/its/author/aruethe2/">Andrew Ruether</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-summary">
+	    <p>GitHub, the company that provides web hosting for version control software, offers several services and programs of interest to students. The GitHub Student Developer Pack provides students free access or credits for a variety of online services including GitHub (unlimited private repositories), &hellip; <a href="https://blogs.swarthmore.edu/its/2018/09/05/github-opportunities-for-students/" class="more-link">Continue reading <span class="screen-reader-text">GitHub Opportunities for Students</span></a></p>
+	</div><!-- .entry-summary -->
+</article><!-- #post-## -->
+
+			
+			
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	
+<div id="tertiary" class="footer-widget" role="complementary">
+	<div class="footer-widget-inner">
+		<aside id="text-6" class="widget widget_text"><h2 class="widget-title">Help Desk</h2>			<div class="textwidget"><p>x4357 (HELP)<br> <a href="tel:16103288513" class="swat-tel"><span class="sr-only">Call</span> 610-328-8513</a> (off campus)<br> <a href="mailto:support@swarthmore.edu">support@swarthmore.edu</a><br> <a href="https://map.concept3d.com/?id=713#!m/87126" title="Find Beardsley on the Campus Map"> Beardsley 110</a></p></div>
+		</aside><aside id="text-8" class="widget widget_text"><h2 class="widget-title">Classroom and Conferencing Technologies</h2>			<div class="textwidget"><p>x6201<br> <a href="mailto:avbox@swarthmore.edu">avbox@swarthmore.edu</a><br> <a href="https://map.concept3d.com/?id=713#!m/87126" title="Find Beardsley on the Campus Map"> Beardsley 115</a></p></div>
+		</aside><aside id="text-10" class="widget widget_text"><h2 class="widget-title">Academic Technology</h2>			<div class="textwidget"><p><a href="mailto:acadtech@swarthmore.edu">acadtech@swarthmore.edu</a></p></div>
+		</aside>	</div><!-- .wrapper -->
+</div><!-- #tertiary -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-footer-inner">
+						<div class="footer-text">
+				<p><span class="nowrap-lrg">Swarthmore College,</span> <span class="nowrap-lrg">500 College Avenue,</span> <span class="nowrap-lrg">Swarthmore, PA 19081</span> <span class="nowrap-lrg">Phone: <a href="tel:16103288000" class="swat-tel"><span class="sr-only">Call</span> 610-328-8000</a></span></p>
+
+<p class="copyright">© 2023 Swarthmore College. All Rights Reserved.</p>			</div><!-- .footer-text -->
+			
+							<nav class="social-navigation" role="navigation">
+					<div class="menu-social-media-container"><ul id="menu-social-media" class="menu"><li id="menu-item-3053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3053"><a href="https://twitter.com/#!/SwarthmoreITS"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-3054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3054"><a href="https://instagram.com/swarthmoreits/"><span class="screen-reader-text">Instagram</span></a></li>
+</ul></div>				</nav><!-- .social-navigation -->
+			
+			<div class="site-info">
+				<a href="http://wordpress.org/">Proudly powered by WordPress</a>
+				<span class="genericon genericon-wordpress sep"></span>
+				Theme: Gazette by <a href="https://wordpress.com/themes/" rel="designer">Automattic</a>.			</div><!-- .site-info -->
+		</div><!-- .site-footer-inner -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/its\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-includes/js/wp-util.min.js?ver=5.5.12' id='wp-util-js'></script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-content/themes/gazette/js/navigation.js?ver=20150507' id='gazette-navigation-js'></script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-content/themes/gazette/js/featured-content.js?ver=20150507' id='gazette-featured-content-js'></script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-content/themes/gazette/js/header.js?ver=20150507' id='gazette-header-js'></script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-content/themes/gazette/js/search.js?ver=20150507' id='gazette-search-js'></script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-content/themes/gazette/js/posts.js?ver=20150507' id='gazette-posts-js'></script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-content/themes/gazette/js/skip-link-focus-fix.js?ver=20130115' id='gazette-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://blogs.swarthmore.edu/its/wp-includes/js/wp-embed.min.js?ver=5.5.12' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202333.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.4.4',blog:'130855670',post:'0',tz:'-4',srv:'blogs.swarthmore.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '130855670', '0' ]);
+</script>
+
+</body>
+</html>
